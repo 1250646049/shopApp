@@ -1,0 +1,1 @@
+<view><uni-list-item vue-id="7f8c5980-1" title="楚绵" showNote="{{true}}" extraStyle="width:10%" titleStyle="display:flex;color:#F06B0B;font-size:20upx;" bind:__l="__l" vue-slots="{{['title','note']}}"><view slot="title"><text class="mx-1 text-secondary">158****531</text><text>[默认]</text></view><view slot="note"><text>广东 广州 白云区 \n XXXX街道</text></view></uni-list-item></view>

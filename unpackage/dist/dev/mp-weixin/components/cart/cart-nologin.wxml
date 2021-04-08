@@ -1,0 +1,1 @@
+<view><view class="bg-white position-fixed left-0 right-0 border-top border-light-secondary animated fadeIn faster " style="z-index:100;"><uni-list-item vue-id="4799fb32-1" title="登录后享受更多优惠" bind:__l="__l" vue-slots="{{['right']}}"><view slot="right">去登录</view></uni-list-item></view><view style="height:95rpx;"></view></view>

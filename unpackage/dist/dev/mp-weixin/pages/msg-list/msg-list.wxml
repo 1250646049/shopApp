@@ -1,0 +1,1 @@
+<view class="p-2"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><view class="mb-2 p-2 line-h d-flex flex-column rounded bg-white"><view class="font-md text-dark">{{item.title}}</view><text class="line-h-md text-light-muted">{{item.desc}}</text><text class="line-h-md text-light-muted">{{item.time}}</text></view></block></block></view>

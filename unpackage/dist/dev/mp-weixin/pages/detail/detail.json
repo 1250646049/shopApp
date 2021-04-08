@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "详情页",
+  "usingComponents": {
+    "swiper-image": "/components/index/swiper-image",
+    "detail-baseinfo": "/components/detail/detail-baseinfo",
+    "card": "/components/common/card",
+    "uni-list-item": "/components/uni-common/uni-list-item/uni-list-item",
+    "common-list": "/components/common/common-list",
+    "detail-bottom-btn": "/components/detail/detail-bottom-btn",
+    "detail-comment-scroll": "/components/detail/detail-comment-scroll",
+    "detail-features": "/components/detail/detail-features",
+    "detail-choose-popup": "/components/detail/detail-choose-popup",
+    "detail-path-popup": "/components/detail/detail-path-popup",
+    "detail-server-popup": "/components/detail/detail-server-popup"
+  }
+}

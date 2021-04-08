@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cart-checkbox": "/components/cart/cart-checkbox",
+    "show-price": "/components/common/show-price"
+  }
+}

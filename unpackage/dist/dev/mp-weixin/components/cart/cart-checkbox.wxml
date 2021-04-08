@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['selected',['$event']]]]]}}" class="{{['cart-checkbox',getBoxClass]}}" bindtap="__e"><view class="icon iconfont icon-iconfontxuanzhong4"></view></view>

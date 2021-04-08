@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-common/uni-nav-bar/uni-nav-bar",
+    "uni-number-box": "/components/uni-common/uni-number-box/uni-number-box",
+    "common-list": "/components/common/common-list",
+    "cart-bottom": "/components/cart/cart-bottom",
+    "cart-checkbox": "/components/cart/cart-checkbox",
+    "detail-choose-popup": "/components/detail/detail-choose-popup",
+    "cart-nologin": "/components/cart/cart-nologin",
+    "cart-nothing": "/components/cart/cart-nothing"
+  }
+}
